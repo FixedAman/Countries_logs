@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "FiPhone",
+    "title": "Call Us",
+    "description": "+1 234 567 890"
+  },
+  {
+    "id": 2,
+    "icon": "FiMapPin",
+    "title": "Find Us",
+    "description": "1234 Main St, Springfield, USA"
+  },
+  {
+    "id": 3,
+    "icon": "FiPlusCircle",
+    "title": " Icon",
+    "description": "Easily add more icons to customize your features"
+  }
+]

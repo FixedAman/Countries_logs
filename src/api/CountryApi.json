@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "country_name": "United States",
+    "population": 331002651,
+    "capital": "Washington, D.C.",
+    "interesting_facts": "The United States is home to the world's third-largest population and has the most diverse range of climates and ecosystems."
+  },
+  {
+    "id": 2,
+    "country_name": "China",
+    "population": 1444216107,
+    "capital": "Beijing",
+    "interesting_facts": "China has the world's largest population and the Great Wall of China is one of its most iconic landmarks."
+  },
+  {
+    "id": 3,
+    "country_name": "India",
+    "population": 1407563842,
+    "capital": "New Delhi",
+    "interesting_facts": "India is the world's largest democracy and is known for its diverse culture and languages, with 22 official languages."
+  },
+  {
+    "id": 4,
+    "country_name": "Japan",
+    "population": 125960000,
+    "capital": "Tokyo",
+    "interesting_facts": "Japan is known as the 'Land of the Rising Sun' and has the world's highest life expectancy."
+  },
+  {
+    "id": 5,
+    "country_name": "Germany",
+    "population": 83783942,
+    "capital": "Berlin",
+    "interesting_facts": "Germany is the largest economy in Europe and is known for its engineering, beer, and historical landmarks."
+  },
+  {
+    "id": 6,
+    "country_name": "Brazil",
+    "population": 213993437,
+    "capital": "Brasília",
+    "interesting_facts": "Brazil is the largest country in South America and is famous for the Amazon Rainforest and the Carnival festival."
+  },
+  {
+    "id": 7,
+    "country_name": "Australia",
+    "population": 25687041,
+    "capital": "Canberra",
+    "interesting_facts": "Australia is the only country that is also a continent and is home to unique wildlife like kangaroos and koalas."
+  },
+  {
+    "id": 8,
+    "country_name": "Canada",
+    "population": 38008005,
+    "capital": "Ottawa",
+    "interesting_facts": "Canada has the longest coastline in the world and is known for its vast wilderness and friendly people."
+  }
+]
