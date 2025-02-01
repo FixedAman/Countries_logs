@@ -13,6 +13,6 @@ export const getResponse = () => {
 
 export const getSpecificData = (country_name) => {
   return api.get(
-    `/name/${country_name}?fields=name,capital,currencies,population,language,flags`
+    `/name/${country_name}?fields=name,capital,currencies,population,languages,flags,subregion,borders ,tld`
   );
 };
